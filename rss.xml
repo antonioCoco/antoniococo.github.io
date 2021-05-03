@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>Weaponizing Mapping Injection with Instrumentation Callback for stealthier process injection</title>
+    <link>https://splintercod3.blogspot.com/p/weaponizing-mapping-injection-with.html</link>
+    <description><div><img src="https://1.bp.blogspot.com/-kIdCJN2OcQ8/XwHFoMR7X7I/AAAAAAAAAC8/THZ-0pbB-ZgrWCeNfl1Wt5J0NkHaELnQACLcBGAsYHQ/w1200-h630-p-k-no-nu/KiSetupForInstrumentationReturn.png" style="width: 100%;"><div>by splinter_code - 16 July 2020 Process Injection is a technique to hide code behind benign and/or system processes. This technique is u...</div></div></description>
+  </item>
+  <item>
+    <title>No more JuicyPotato? Old story, welcome RoguePotato!</title>
+    <link>https://splintercod3.blogspot.com/p/no-more-juicypotato-old-story-welcome.html</link>
+    <description><div><img src="https://1.bp.blogspot.com/-74LvlyHwtuM/Xw4bETWO70I/AAAAAAAAAFU/_pS6GwnD1s4mu4jQp_p2ptKvUrNnXMR3ACLcBGAsYHQ/w1200-h630-p-k-no-nu/img6.png" style="width: 100%;"><div>by splinter_code & decoder_it - 11 May 2020 After the hype we ( @splinter_code and me) created with our recent tweet , it’s time t...</div></div></description>
+  </item>
+</channel>
+
+</rss>
