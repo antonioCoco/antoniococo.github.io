@@ -25,7 +25,7 @@
 				<![CDATA[Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol]]>
 			</title>
 			<description>
-				<![CDATA[<div><img src="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg" style="width: 100%;"><div>by splinter_code & decoder_it - 26 April 2021    NTLM relaying [1] is a well known technique that has long been abused by attackers. Despite the continuous “fixes” from 2001 onwards, it is still possible in a MITM scenario, for certain protocols where signing is not enabled, to intercept the NTLM messages and to “relay” the authentication to a target resource in order to elevate privileges. Normally, NTLM relays need user intervention, so you have to trick the victim to authenticate to a resource under your control...</div></div>]]>
+				<![CDATA[<div><img src="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg" style="width: 100%;"><div>by splinter_code & decoder_it - 26 April 2021    NTLM relaying [1] is a well known technique that has long been abused by attackers. Despite the continuous “fixes” from 2001 onwards, it is still possible in a MITM scenario, for certain protocols where signing is not enabled, to intercept the NTLM messages and to “relay” the authentication...</div></div>]]>
 			</description>
 			<link>https://splintercod3.blogspot.com/p/relaying-potatoes-another-unexpected.html</link>
 			<media:content medium="image" url="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg"/>
@@ -39,16 +39,6 @@
 			</description>
 			<link>https://splintercod3.blogspot.com/p/romhack2020-windows-privilege.html</link>
 			<media:content medium="image" url="https://2020.romhack.io/images-2020/logo-rh-2.png"/>
-		</item>
-		<item>
-			<title>
-				<![CDATA[Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol ]]>
-			</title>
-			<description>
-				<![CDATA[<div><img src="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg" style="width: 100%;"><div>by splinter_code & decoder_it - 26 April 2021    NTLM relaying [1] is a well known technique that has long been abused by attackers. Despite the continuous “fixes” from 2001 onwards, it is still possible in a MITM scenario, for certain protocols where signing is not enabled, to intercept the NTLM messages and to “relay” the authentication to a target resource in order to elevate privileges. Normally, NTLM relays need user intervention, so you have to trick the victim to authenticate to a resource under your control...</div></div>]]>
-			</description>
-			<link>https://splintercod3.blogspot.com/p/relaying-potatoes-another-unexpected.html</link>
-			<media:content medium="image" url="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg"/>
 		</item>
 		<item>
 			<title>
