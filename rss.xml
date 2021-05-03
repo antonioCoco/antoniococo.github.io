@@ -22,6 +22,36 @@
 		</language>
 		<item>
 			<title>
+				<![CDATA[Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg" style="width: 100%;"><div>by splinter_code & decoder_it - 26 April 2021    NTLM relaying [1] is a well known technique that has long been abused by attackers. Despite the continuous “fixes” from 2001 onwards, it is still possible in a MITM scenario, for certain protocols where signing is not enabled, to intercept the NTLM messages and to “relay” the authentication to a target resource in order to elevate privileges. Normally, NTLM relays need user intervention, so you have to trick the victim to authenticate to a resource under your control...</div></div>]]>
+			</description>
+			<link>https://splintercod3.blogspot.com/p/relaying-potatoes-another-unexpected.html</link>
+			<media:content medium="image" url="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[RomHack2020 - Windows Privilege Escalations: Still abusing local service accounts to get SYSTEM privileges]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://2020.romhack.io/images-2020/logo-rh-2.png" style="width: 100%;"><div>Slides here: https://github.com/antonioCoco/infosec-talks/blob/main/RomHack2020_Windows_Privilege_Escalations_Still_abusing_Service_Accounts_to_get_SYSTEM_privileges.pdf...</div></div>]]>
+			</description>
+			<link>https://splintercod3.blogspot.com/p/romhack2020-windows-privilege.html</link>
+			<media:content medium="image" url="https://2020.romhack.io/images-2020/logo-rh-2.png"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol ]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg" style="width: 100%;"><div>by splinter_code & decoder_it - 26 April 2021    NTLM relaying [1] is a well known technique that has long been abused by attackers. Despite the continuous “fixes” from 2001 onwards, it is still possible in a MITM scenario, for certain protocols where signing is not enabled, to intercept the NTLM messages and to “relay” the authentication to a target resource in order to elevate privileges. Normally, NTLM relays need user intervention, so you have to trick the victim to authenticate to a resource under your control...</div></div>]]>
+			</description>
+			<link>https://splintercod3.blogspot.com/p/relaying-potatoes-another-unexpected.html</link>
+			<media:content medium="image" url="https://labs.sentinelone.com/wp-content/uploads/2021/04/Copy-of-Relaying-Potatoes_-DCE_RPC-NTLM-Relay-EOP-7-1140x597.jpg"/>
+		</item>
+		<item>
+			<title>
 				<![CDATA[Weaponizing Mapping Injection with Instrumentation Callback for stealthier process injection]]>
 			</title>
 			<description>
@@ -69,6 +99,16 @@
 			</description>
 			<link>https://splintercod3.blogspot.com/p/new-threat-dubbed-zepto-ransomware-is.html</link>
 			<media:content medium="image" url="https://lh5.googleusercontent.com/proxy/9dfDWQMLmTl_BoloiMxeCRoF8iVb7TgxyClqVLAzJp0pOuOA--7p1Cw3buooQPbYJIlHAoigtXKjvI60uscuNKU7e2R6ICjt96-XmpPv0Itb2o49QynC7_aou4EuWoYP5SfMQ_Aqj5wAm8nnGpx0tI4I5AFm3tju--Avbb4hxRdsmUi_XEG0sBgo=w1200-h630-p-k-no-nu"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Locky Ransomware is back! 49 domains compromised!]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://i2.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2016/06/locky-ransomware-1.png" style="width: 100%;"><div>by splinter_code - 26 June 2016   Locky ransomware starts up again its illegal activity of stealing money from their victims after a temporary inactivity since the end of May. This time, it comes with hard-coded javascript...</div></div>]]>
+			</description>
+			<link>https://splintercod3.blogspot.com/p/blog-page_14.html</link>
+			<media:content medium="image" url="https://i2.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2016/06/locky-ransomware-1.png"/>
 		</item>
 	</channel>
 </rss>
