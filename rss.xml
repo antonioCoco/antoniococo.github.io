@@ -22,6 +22,16 @@
 		</language>
 		<item>
 			<title>
+				<![CDATA[BlueHat IL 2022 - Relaying to Greatness: Windows Privilege Escalation by abusing the RPC/DCOM protocols]]>
+			</title>
+			<description>
+				<![CDATA[<div><img src="https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzzqPdMCssgUdzTjzfsEZvwdq1DVEQ6aNOfKlkddLMPJ4Mgk4huWo20MdMQnVuKYzZTzY3rTfMd_WLUq6FedwYB9HpbQchvIKW6jaz_OgnBCa7FuA=w1200-h630-n-k-no-nu></div>]]>
+			</description>
+			<link>https://splintercod3.blogspot.com/p/bluehat-il-2022-relaying-to-greatness.html</link>
+			<media:content medium="image" url="https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzzqPdMCssgUdzTjzfsEZvwdq1DVEQ6aNOfKlkddLMPJ4Mgk4huWo20MdMQnVuKYzZTzY3rTfMd_WLUq6FedwYB9HpbQchvIKW6jaz_OgnBCa7FuA=w1200-h630-n-k-no-nu"/>
+		</item>
+		<item>
+			<title>
 				<![CDATA[ The hidden side of Seclogon part 2: Abusing leaked handles to dump LSASS memory ]]>
 			</title>
 			<description>
